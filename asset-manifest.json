@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/camcimber/static/css/main.f4a60209.css",
+    "main.js": "/camcimber/static/js/main.3494d0be.js",
+    "static/js/787.c04544ac.chunk.js": "/camcimber/static/js/787.c04544ac.chunk.js",
+    "static/media/proj2.jpeg": "/camcimber/static/media/proj2.7a97a2cec727786f29a3.jpeg",
+    "static/media/proj1.jpeg": "/camcimber/static/media/proj1.165c36179929a2e6b77b.jpeg",
+    "static/media/logo.svg": "/camcimber/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/camcimber/index.html",
+    "main.f4a60209.css.map": "/camcimber/static/css/main.f4a60209.css.map",
+    "main.3494d0be.js.map": "/camcimber/static/js/main.3494d0be.js.map",
+    "787.c04544ac.chunk.js.map": "/camcimber/static/js/787.c04544ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a60209.css",
+    "static/js/main.3494d0be.js"
+  ]
+}
